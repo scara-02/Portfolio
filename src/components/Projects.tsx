@@ -16,7 +16,7 @@ const Projects = () => {
         "Performed model evaluation using precision, recall, and F1-score metrics",
         "Visualized insights with Matplotlib and Seaborn"
       ],
-      githubUrl: "https://github.com/jaiganeshjaisurra/kindle-sentiment-analysis"
+      githubUrl: "https://github.com/scara-02/Kindle_Review_Sentiment_Analysis"
     },
     {
       title: "AutoML Dashboard",
@@ -28,7 +28,7 @@ const Projects = () => {
         "Supports multiple ML algorithms",
         "Real-time model performance metrics"
       ],
-      githubUrl: "https://github.com/jaiganeshjaisurra/automl-dashboard"
+      githubUrl: "https://github.com/scara-02/AutoML-Dashboard-Machine-Learning-App-with-Classification-Clustering"
     },
     {
       title: "Airbnb Price Prediction System",
@@ -40,7 +40,7 @@ const Projects = () => {
         "Implemented various ML algorithms and selected best performing model",
         "Comprehensive feature engineering and data preprocessing pipeline"
       ],
-      githubUrl: "https://github.com/jaiganeshjaisurra/airbnb-price-prediction"
+      githubUrl: "https://github.com/scara-02/98-accuracy-airbnb-price-prediction-"
     }
   ];
 
