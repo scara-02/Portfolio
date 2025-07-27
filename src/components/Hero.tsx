@@ -42,7 +42,7 @@ const Hero = () => {
 
           <div className="flex justify-center space-x-6 pt-8">
             <a
-              href="mailto:jaiganeshjaisurra@gmail.com"
+              href="mailto:jaiganeshjaisurrya@gmail.com"
               className="text-muted-foreground hover:text-primary transition-colors duration-200 hover:scale-110 transform"
             >
               <Mail className="h-6 w-6" />
@@ -56,7 +56,7 @@ const Hero = () => {
               <Linkedin className="h-6 w-6" />
             </a>
             <a
-              href="https://github.com/jaiganeshjaisurra"
+              href="https://github.com/scara-02"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors duration-200 hover:scale-110 transform"
